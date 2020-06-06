@@ -2,8 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-**/__pycache__/
-*/__pycache__/
 
 # C extensions
 *.so
@@ -78,8 +76,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-**/.ipynb_checkpoints
-*/.ipynb_checkpoints
 
 # IPython
 profile_default/
